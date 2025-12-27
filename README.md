@@ -1,19 +1,19 @@
 <!-- Profile README for Puspita Chowdhury (puspitachy) -->
 
 <h1 align="center">Hi 👋, I'm Puspita Chowdhury</h1>
-<h3 align="center">M.S. AI @ Yeshiva University | Data + ML + Women’s Health Research</h3>
+
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/puspita-chowdhury-b200561a4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://medium.com/@YOUR-MEDIUM" target="_blank">
+  <a href="[https://medium.com/@YOUR-MEDIUM](https://medium.com/@puspitachy2000)" target="_blank">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
   <a href="mailto:puspitachy2000@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://puspitachy.github.io" target="_blank">
+  <a href="[https://puspitachy.github.io](https://github.com/puspitachy)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=githubpages&logoColor=white"/>
   </a>
 </p>
@@ -22,7 +22,7 @@
 
 ## ✨ About Me
 - 🔭 I’m working on **Machine Learning + Data Analytics + Health AI**
-- 🧠 Current focus: **Health risk prediction (BRFSS), menstrual health analytics, and applied ML**
+- 🧠 Current focus: **Health risk prediction (BRFSS), menstrual health analytics, Brain Tumor Detection and applied ML**
 - 📚 M.S. in **Artificial Intelligence** (Yeshiva University, Katz School)
 - 🧪 Interested in: **Public Health ML, Responsible AI, Explainability**
 - 💬 Ask me about: **Python, ML pipelines, EDA, BRFSS/NHANES, research posters**
@@ -32,7 +32,7 @@
 
 ## 🌐 Socials
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/puspita-chowdhury-b200561a4/">
     <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://github.com/puspitachy">
@@ -80,16 +80,6 @@
 - **Women’s Health & Productivity Analytics** — dataset + insights + modeling  
 - **Brain Tumor Detection (CNN Ensemble)** — InceptionV3 + MobileNetV3  
 
-*(Add links to your repos here)*
+
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=puspitachy&show_icons=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puspitachy&layout=compact" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=puspitachy" height="160"/>
-</p>
